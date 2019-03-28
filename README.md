@@ -1,5 +1,5 @@
 # stock-trader
-## Para acessar a aplicação click <a href="https://stock-trader-ada28.firebaseapp.com/">stock-trader</a>
+## Para acessar a aplicação click <a href="https://s-trader.tk/">stock-trader</a>
 
 
 ## Project setup
